@@ -4,7 +4,7 @@
   "description": "Microsoft Bot Framework starter project for Azure App Service on Linux",
   "main": "server.js",
   "engines": {
-    "node": "6.9.1",
+    "node": "6.10.2",
     "npm": "3.10.8"
   },
   "scripts": {
