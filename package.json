@@ -1,0 +1,32 @@
+{
+  "name": "botframework-azure-on-linux-starter",
+  "version": "1.0.0",
+  "description": "Microsoft Bot Framework starter project for Azure App Service on Linux",
+  "main": "server.js",
+  "engines": {
+    "node": "6.9.1",
+    "npm": "3.10.8"
+  },
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwhitmont/botframework-azure-on-linux-starter.git"
+  },
+  "keywords": [
+    "botframework",
+    "botbuilder",
+    "azure",
+    "linux"
+  ],
+  "author": "Nils Whitmont <nils.whitmont@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/nwhitmont/botframework-azure-on-linux-starter#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "moment": "^2.18.1",
+    "restify": "^4.3.0"
+  }
+}
