@@ -20,7 +20,7 @@
     "azure",
     "linux"
   ],
-  "author": "Nils Whitmont <nils.whitmont@gmail.com>",
+  "author": "Nils Whitmont",
   "license": "MIT",
   "homepage": "https://github.com/nwhitmont/botframework-azure-on-linux-starter#readme",
   "dependencies": {
