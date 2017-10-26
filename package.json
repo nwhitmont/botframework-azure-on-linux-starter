@@ -24,8 +24,8 @@
   "license": "MIT",
   "homepage": "https://github.com/nwhitmont/botframework-azure-on-linux-starter#readme",
   "dependencies": {
-    "botbuilder": "^3.9.1",
-    "moment": "^2.18.1",
-    "restify": "^5.2.0"
+    "botbuilder": "^3.11.0",
+    "moment": "^2.19.1",
+    "restify": "^6.2.3"
   }
 }
